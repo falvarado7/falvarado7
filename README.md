@@ -8,7 +8,7 @@ Fullstack Web Developer
 - 👨‍💻 Currently working as a pipe welder
 - 🖥 Check out my portfolio at [My Portfolio](https://new-portfolio-nine-steel.vercel.app/)
 - 🧰 I build with JavaScript, HTML, CSS, React
-- 🧠 Currently learning Back End Devloment
+- 🧠 Currently learning Back End Development
 - ✉ Contact me [francisco.alvarado217@yahoo.com](mailto:francisco.alvarado217@yahoo.com)
 
 ### Skills

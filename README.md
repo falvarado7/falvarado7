@@ -7,8 +7,8 @@ Fullstack Web Developer
 
 - 👨‍💻 Currently working as a pipe welder
 - 🖥 Check out my portfolio at [My Portfolio](https://franciscode.vercel.app/)
-- 🧰 I build with JavaScript, HTML, CSS, React, Node, Express, SQL
-- 🧠 Currently learning PHP
+- 🧰 I build with JavaScript, HTML, CSS, React, Node, Express, SQL, Laravel, PHP, TypeScript
+- 🧠 Currently learning Next.js
 - ✉ Contact me [francisco.alvarado217@yahoo.com](mailto:francisco.alvarado217@yahoo.com)
 
 ### Skills
@@ -24,6 +24,9 @@ Fullstack Web Developer
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+<a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
+<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 </p>
 
 

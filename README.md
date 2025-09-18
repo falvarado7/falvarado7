@@ -3,12 +3,13 @@
 Fullstack Web Developer
 ---------------------------------------
 
- A pipe welder who has discovered a whole new world within the intricate lines of code. During my downtime, I found a hidden passion for software development. What started as a curiosity has evolved into a full-fledged journey of self-discovery and skill-building. I've been fervently teaching myself how to code, exploring languages like JavaScript, HTML/CSS, and more. Recognizing the potential of this newfound interest, I've recently embarked on an exciting adventure by enrolling in a Software Engineering Bootcamp
+From welding pipelines in refineries to building scalable web applications, my journey has always been about solving complex problems and creating things that last. I transitioned from the oil & gas industry into tech, and today I work as a Software Engineer, developing production-ready applications with modern frameworks and clean, maintainable code.
 
-- 👨‍💻 Currently working as a software engineer
+- 👨‍💻 Currently working as a Full-Stack Software Engineer (Laravel, React, Inertia.js, SQL)
 - 🖥 Check out my portfolio at [My Portfolio](https://falvarado.dev/)
-- 🧰 I build with JavaScript, HTML, CSS, React, Node, Express, SQL, Laravel, PHP, TypeScript
-- 🧠 Currently learning Python
+- 🧰 I build with JavaScript, React, Node.js, Express, SQL, Laravel, PHP, TypeScript, C#, Python, FastAPI
+- 🚀 Passionate about creating impactful projects — from hackathon-winning apps to tools used by 150+ clients worldwide
+- 🧠 Always learning: expanding skills in Python and systems design
 - ✉ Contact me [francisco.alvarado217@yahoo.com](mailto:francisco.alvarado217@yahoo.com)
 
 ### Skills
